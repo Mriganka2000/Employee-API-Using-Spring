@@ -1,0 +1,9 @@
+[
+	{
+    		"email": "mrigankabhadrq44@gmail.com",
+    		"imageURL": "https://bootdey.com/img/Content/avatar/avatar1.png",
+    		"jobTitle": "Javascript",
+    		"name": "Mriganka",
+    		"phone": "4589612347"
+	}
+]
