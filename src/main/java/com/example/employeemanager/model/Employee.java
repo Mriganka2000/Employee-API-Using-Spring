@@ -41,7 +41,7 @@ public class Employee implements Serializable {
 		return email;
 	}
 
-	public String getJobTitle() {
+	public String getJobTitle()	{
 		return jobTitle;
 	}
 
